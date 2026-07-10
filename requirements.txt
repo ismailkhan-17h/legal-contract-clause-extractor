@@ -1,0 +1,15 @@
+torch
+transformers
+datasets
+peft
+accelerate
+sentencepiece
+bitsandbytes
+evaluate
+rouge-score
+scikit-learn
+pandas
+numpy
+gradio
+huggingface-hub
+safetensors
