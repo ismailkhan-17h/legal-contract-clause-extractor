@@ -1,0 +1,31 @@
+SOFTWARE DEVELOPMENT AND LICENSE AGREEMENT
+
+This Software Development and License Agreement ("Agreement") is entered into as of January 10, 2026, by and between Alpha Technologies Inc. ("Company") and Beta Solutions LLC ("Developer").
+
+1. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of law provisions.
+
+2. TERM AND TERMINATION
+
+This Agreement shall remain in effect for a period of two (2) years from the Effective Date. Either party may terminate this Agreement by providing thirty (30) days prior written notice to the other party. Upon termination, all rights and obligations under this Agreement shall cease except those provisions that survive termination.
+
+3. INDEMNIFICATION
+
+The Developer agrees to indemnify, defend, and hold harmless the Company, its officers, employees, and affiliates from any claims, damages, losses, liabilities, and expenses arising from the Developer's breach of this Agreement or negligence.
+
+4. LIMITATION OF LIABILITY
+
+Except for obligations related to confidentiality, indemnification, or intellectual property violations, neither party shall be liable for any indirect, incidental, special, or consequential damages. The total liability of either party under this Agreement shall not exceed five hundred thousand dollars ($500,000).
+
+5. NON-COMPETE
+
+During the term of this Agreement and for twelve (12) months after termination, the Developer shall not create, market, or provide competing software products that directly compete with the Company's services without prior written consent.
+
+6. CONFIDENTIALITY
+
+Both parties agree to maintain confidentiality of all proprietary information received during the term of this Agreement and shall not disclose such information to any third party without written authorization.
+
+7. EXCLUSIVITY
+
+During the term of this Agreement, the Developer shall provide software development services exclusively to the Company and shall not provide substantially similar services to direct competitors of the Company.
