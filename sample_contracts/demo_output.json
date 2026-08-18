@@ -1,0 +1,8 @@
+{
+  "governing_law": "State of California",
+  "termination": "Thirty (30) days prior written notice",
+  "indemnification": "Developer agrees to indemnify, defend, and hold harmless the Company from claims, damages, losses, liabilities, and expenses.",
+  "liability_cap": "$500,000",
+  "non_compete": "Twelve (12) months after termination",
+  "exclusivity": "Developer shall provide software development services exclusively to the Company."
+}

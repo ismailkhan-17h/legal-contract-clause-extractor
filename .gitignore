@@ -1,0 +1,67 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+
+# ======================
+# Jupyter Notebook
+# ======================
+.ipynb_checkpoints/
+
+
+# ======================
+# Hugging Face / Model Files
+# ======================
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# LoRA checkpoints
+checkpoint-*/
+adapter_model/
+adapter_model.safetensors
+
+# Hugging Face cache
+.cache/
+huggingface/
+
+
+# ======================
+# Data
+# ======================
+*.csv
+*.jsonl
+*.parquet
+
+data/
+datasets/
+
+
+# ======================
+# Outputs
+# ======================
+outputs/
+results/
+logs/
+
+
+# ======================
+# OS Files
+# ======================
+.DS_Store
+Thumbs.db
+
+
+# ======================
+# Colab
+# ======================
+*.ipynb_checkpoints/
